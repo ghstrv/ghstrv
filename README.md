@@ -1,0 +1,6 @@
+- 👋 Hi, I’m ghostrave
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning aiogram, telethon
+- 📫 How to reach me do not write sh#tcode
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: enjoying life
